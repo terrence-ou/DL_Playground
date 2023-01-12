@@ -64,7 +64,7 @@ Object detection is one of the most fundamental and widely-applied task in the f
 
 ## 2. \[HC\]  ConvNeXt, with Center Loss, for Face Recognition and Verification
 
-[Google Colab]() | [Notebook]() <br>
+[Google Colab](https://colab.research.google.com/drive/1xts-wbTTUrgSTkdvPia7Oqm9-UtVlgKR?authuser=1) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/%5BHC%5DConvNeXt_CenterLoss_Face_Classification_Verification.ipynb) <br>
 Realted Paper: [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)<br>
 Dataset: [Face Verification](https://www.kaggle.com/competitions/11-785-f22-hw2p2-verification)<br>
 
