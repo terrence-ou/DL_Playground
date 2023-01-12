@@ -15,7 +15,7 @@ There're two types of notebooks in this collection:
 
 ## 5. \[HC\] Transformer for EN to DE Translation
 
-[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/Transformer_From_Scratch_PyTorch.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/Transformer_From_Scratch_PyTorch.ipynb) <br>
+[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/%5BHC%5DTransformer_From_Scratch_PyTorch.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/%5BHC%5DTransformer_From_Scratch_PyTorch.ipynb) <br>
 Related Paper: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)<br>
 Dataset: [Multi30K](https://github.com/multi30k/dataset) <br>
 Code Reference: [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) by Sasha Rush et al.<br> 
@@ -31,7 +31,7 @@ The Transformer is the cornerstone of the most advanced NLP, Computer Vision, an
 
 ## 4. \[HC\]  LAS for Speech Recognition
 
-[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/LAS_Speech_Recognition.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/LAS_Speech_Recognition.ipynb) <br>
+[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/%5BHC%5DLAS_Speech_Recognition.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/%5BHC%5DLAS_Speech_Recognition.ipynb) <br>
 Realted Paper: [Listen, Attend, and Spell](https://arxiv.org/abs/1508.01211)<br>
 Dataset: [Attention-based Speech Recognition](https://www.kaggle.com/competitions/11-785-f22-hw4p2/)<br>
 
@@ -47,7 +47,7 @@ LAS is a comprehensive model that includes sequencial models (pBLSTM and LSTM ce
 ## 3. \[FT\] FasterRCNN for Mask Detection
 
 
-[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/Finetunning_FasterRCNN_Mask_Detection.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/Finetunning_FasterRCNN_Mask_Detection.ipynb) <br>
+[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/%5BFT%5DFasterRCNN_Mask_Detection.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/%5BFT%5DFasterRCNN_Mask_Detection.ipynb) <br>
 Dataset: [Face Mask Detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)<br>
 
 Code Reference: [PyTorch Faster-RCNN](https://www.kaggle.com/code/daniel601/pytorch-fasterrcnn) by Daniel
@@ -64,7 +64,7 @@ Object detection is one of the most fundamental and widely-applied task in the f
 
 ## 2. \[HC\]  ConvNeXt, with Center Loss, for Face Recognition and Verification
 
-[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/ConvNeXt_CenterLoss_Face_Classification_Verification.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/ConvNeXt_CenterLoss_Face_Classification_Verification.ipynb) <br>
+[Google Colab]() | [Notebook]() <br>
 Realted Paper: [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)<br>
 Dataset: [Face Verification](https://www.kaggle.com/competitions/11-785-f22-hw2p2-verification)<br>
 
@@ -81,7 +81,7 @@ ConvNeXt is a new convolutional network that publish in 2022, with the advantage
 ## 1. \[HC\] Variational AutoEncoder
 
 
-[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/Variational_AutoEncoder.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/Variational_AutoEncoder.ipynb) <br>
+[Google Colab](https://colab.research.google.com/github/terrence-ou/DL_Playground/blob/main/%5BHC%5DVariational_AutoEncoder.ipynb) | [Notebook](https://github.com/terrence-ou/DL_Playground/blob/main/%5BHC%5DVariational_AutoEncoder.ipynb) <br>
 Realted Paper: [An Introduction to Variational Autoencoders
 ](https://arxiv.org/abs/1906.02691)<br>
 
